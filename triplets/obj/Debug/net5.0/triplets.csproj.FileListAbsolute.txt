@@ -1,0 +1,16 @@
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\bin\Debug\net5.0\triplets.exe
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\bin\Debug\net5.0\triplets.deps.json
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\bin\Debug\net5.0\triplets.runtimeconfig.json
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\bin\Debug\net5.0\triplets.runtimeconfig.dev.json
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\bin\Debug\net5.0\triplets.dll
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\bin\Debug\net5.0\ref\triplets.dll
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\bin\Debug\net5.0\triplets.pdb
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.csproj.AssemblyReference.cache
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.AssemblyInfoInputs.cache
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.AssemblyInfo.cs
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.csproj.CoreCompileInputs.cache
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.dll
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\ref\triplets.dll
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.pdb
+C:\Users\demsk\Desktop\РАБОТА\triplets\triplets\triplets\obj\Debug\net5.0\triplets.genruntimeconfig.cache

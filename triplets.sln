@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triplets", "triplets\triplets.csproj", "{FBE921D0-58A9-4B7E-B422-9378C6B44393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE921D0-58A9-4B7E-B422-9378C6B44393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE921D0-58A9-4B7E-B422-9378C6B44393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE921D0-58A9-4B7E-B422-9378C6B44393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE921D0-58A9-4B7E-B422-9378C6B44393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
